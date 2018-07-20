@@ -1,0 +1,36 @@
+baseurl = ""
+title = "rocci jocci | Benebo Jack"
+theme = "nix"
+languageCode = "en-us"
+# disqusShortname = "your_disqus_shortname"
+
+[menu]
+  [[menu.header]]
+    name = "post"
+    weight = 0
+    url = "/post"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+	[[menu.header]]
+		name = "otaku"
+		weight = 2
+		url = "/otaku"
+
+[params]
+  GithubID = "roccijocci"
+  TwitterID = "roccijocci"
+  # LinkedInID = "your_linkedin"
+  # GoogleplusID = "your_googleplus"
+  # FacebookID = "your_facebook"
+  # TelegramID = "your_telegram"
+  icon = "/icon.png"
+  Name = "Jack Victor Benebo"
+  HeaderUsername = "su"
+  HeaderHostname = "rocci"
+  Email = ""
+  About = "Hi I'm Benebo Jack and this is my website. I am a developer, Otaku and . I wanted to develop my website using Hugo because of my love for golang, other languages i dev in are Python Javascript. On this websites you can expect my projects and blog posts about everything I love. Enjoy!"
+  ProfilePicture = "/jack.jpg"
+  # SlackURL = "your_slack_invite_url"
+
