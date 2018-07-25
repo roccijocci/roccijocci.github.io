@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Otakus on rocci jocci | Benebo Jack</title>
+    <link>https://roccijocci.github.io/otaku/</link>
+    <description>Recent content in Otakus on rocci jocci | Benebo Jack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://roccijocci.github.io/otaku/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tokyo ghoul</title>
+      <link>https://roccijocci.github.io/otaku/tokyoghoul/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://roccijocci.github.io/otaku/tokyoghoul/</guid>
+      <description>Talk about It Summary The anime called tokyo Ghoul is centered around a young boy who was a lover of books met a girl(who was a ghoul) ended up being a ghoul.</description>
+    </item>
+    
+  </channel>
+</rss>
