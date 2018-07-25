@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://roccijocci.github.io/"
 title = "rocci jocci | Benebo Jack"
 theme = "nix"
 languageCode = "en-us"
@@ -21,6 +21,7 @@ languageCode = "en-us"
 [params]
   GithubID = "roccijocci"
   TwitterID = "roccijocci"
+  BitBucketID = "b3n3bo"
   # LinkedInID = "your_linkedin"
   # GoogleplusID = "your_googleplus"
   # FacebookID = "your_facebook"
