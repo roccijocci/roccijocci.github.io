@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://roccijocci.github.io/"
 title = "rocci jocci | Benebo Jack"
 theme = "nix"
 languageCode = "en-us"
